@@ -1,0 +1,5 @@
+Metric,AAA,EEE
+Dropout Rate (%),16.84,24.61
+Number of Students,748.0,2934.0
+Mean Total Clicks (Early Weeks),412.7,353.8
+C-index (from CV),0.5657,0.7178
